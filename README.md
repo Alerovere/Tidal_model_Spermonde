@@ -17,6 +17,10 @@ Bathymetric data were downloaded from GEBCO:
 
 > GEBCO Compilation Group (2020) GEBCO 2020 Grid (doi:10.5285/a29c5465-b138-234d-e053-6c86abc040b9)
 
-The model has a grid size of 2x2km, and covers the extent of the Spermonde Archipelago.
+The model has a grid size of 2x2km, and covers the extent of the Spermonde Archipelago. The following image shows the gridded bathymetry for the tidal model, and validation sites.
+ 
+<img src="Tide_model_Spermonde/Validation/Model_overview.png" width="50%" height="50%">
 
+## Validation
+The model was validated in two ways. First, we used the IHO database built into Delft Dashboard and compred it with our modeled data for the entire simulation time. The result is shown in the figure below.
 
