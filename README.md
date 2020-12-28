@@ -3,3 +3,12 @@ This repository contains the results of a DELFT 3D model run, that simulates tid
 
 A detailed description of Delft Dashboard can be found here:
 > van Ormondt, M., Nederhoff, K. and van Dongeren, A., 2020. Delft Dashboard: a quick set-up tool for hydrodynamic models. Journal of Hydroinformatics, 22(3), pp.510-527.
+
+
+
+## Model files
+The model files (DELFT 3D model files and resulting NEFIS map file) are available via ZENODO: 
+
+
+## Model boundary conditions
+Boundary conditions were 
