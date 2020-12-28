@@ -24,3 +24,14 @@ The model has a grid size of 2x2km, and covers the extent of the Spermonde Archi
 ## Validation
 The model was validated in two ways. First, we used the IHO database built into Delft Dashboard and compred it with our modeled data for the entire simulation time. The result is shown in the figure below.
 
+<img src="Tide_model_Spermonde/Validation/Makassar.png" width="80%" height="80%">
+
+Second, we used the water levels surveyed at different islands of the Spermonde Archipelago by Bender et al., 2020 (Climate of the Past) available here:
+
+> Bender, Maren; Mann, Thomas; Stocchi, Paolo; Kneer, Dominik; Schöne, Tilo; Illigner, Julia; Jompa, Jamaluddin; Rovere, Alessio (2020): Fossil Microatoll radiocarbon and elevation records from the Spermonde Archipelago in SW Sulawesi, Indonesia, 2017. PANGAEA, https://doi.org/10.1594/PANGAEA.917694
+
+The results are shown in the graphs below
+<img src="Tide_model_Spermonde/Validation/Barrang Lompo.png" width="80%" height="80%">
+<img src="Tide_model_Spermonde/Validation/Kodingareng Keke.png" width="80%" height="80%">
+<img src="Tide_model_Spermonde/Validation/Panambungan.png" width="80%" height="80%">
+<img src="Tide_model_Spermonde/Validation/Tambakulu.png" width="80%" height="80%">
