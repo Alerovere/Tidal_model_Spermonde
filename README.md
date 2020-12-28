@@ -35,3 +35,14 @@ The results are shown in the graphs below
 <img src="Tide_model_Spermonde/Validation/Kodingareng Keke.png" width="80%" height="80%">
 <img src="Tide_model_Spermonde/Validation/Panambungan.png" width="80%" height="80%">
 <img src="Tide_model_Spermonde/Validation/Tambakulu.png" width="80%" height="80%">
+
+The python notebooks used to make these plots are available in this repository.
+
+## Results
+In general, despite the coarse resolution of the model and underlying bathymetry, the model gives a very good first approximation of water levels in the Spermonde Archipelago. Comparison with the (few) available data shows that the model reproduces tidal ranges at differet sites with an accuracy of 20 cm or better. Despite these encouraging results, this model is provided with NO WARRANTY WATSOEVER, and above all should not be used for navigation or planning purposes.
+Improving these results would require:
+- a better bathymetry, also including the very shallow waters around the islands
+- more validation datapoints, over a longer period of time
+- improved boundary conditions
+
+## Acknowledgments
