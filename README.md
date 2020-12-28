@@ -12,3 +12,11 @@ The NEFIS files can be opened via QuickPlot (DELFT 3D) or OpenEarthTools. The Ze
 Boundary conditions were derived from astronomic forcing from the TPXO 7.2 Global Inverse tide model, described here:
 
 > Egbert, Gary D., and Svetlana Y. Erofeeva. "Efficient inverse modeling of barotropic ocean tides." Journal of Atmospheric and Oceanic Technology 19.2 (2002): 183-204.
+
+Bathymetric data were downloaded from GEBCO:
+
+> GEBCO Compilation Group (2020) GEBCO 2020 Grid (doi:10.5285/a29c5465-b138-234d-e053-6c86abc040b9)
+
+The model has a grid size of 2x2km, and covers the extent of the Spermonde Archipelago.
+
+
